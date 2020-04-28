@@ -5,6 +5,8 @@ public class HappyBirthday {
         System.out.println("Happy Birthday To You All");
         // I send this message from GitHub.
         System.out.println("Happy Birthday toooooo yoooooouuuuuuuu");
+        // Now we are practicing git fetch git merge
+        // git pull = git fetch + git merge
             
     }
 }
